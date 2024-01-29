@@ -1,0 +1,18 @@
+table.primera {
+    border: red 1px solid;
+}
+
+td.A {
+    border: blue 3px solid;
+}
+
+table.verde {
+    border: green 1px solid;
+    position: relative;
+    width: 400px;
+    text-align: center;
+}
+td.verdea {
+    border: green 1px solid;
+
+}
